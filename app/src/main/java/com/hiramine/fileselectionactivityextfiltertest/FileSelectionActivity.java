@@ -153,11 +153,11 @@ public class FileSelectionActivity extends AppCompatActivity implements AdapterV
 	public static final  String EXTRA_FILE        = "FILE";
 	public static final  String EXTRA_EXT         = "EXT";
 	private static final int    BUTTONTAG_CANCEL  = 0;
-	private String[] m_astrExt;                // フィルタ拡張子配列
 
 	// メンバー変数
 	private ListView             m_listview;    // リストビュー
 	private FileInfoArrayAdapter m_fileinfoarrayadapter; // ファイル情報配列アダプタ
+	private String[]             m_astrExt;                // フィルタ拡張子配列
 
 	@Override
 	protected void onCreate( Bundle savedInstanceState )
