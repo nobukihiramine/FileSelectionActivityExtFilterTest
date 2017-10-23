@@ -1,5 +1,6 @@
 # FileSelectionActivityExtFilterTest
 ファイル選択アクティビティ （ Activity + ListView + 拡張子フィルタ )の動作テスト用のプロジェクトです。
+http://www.hiramine.com/programming/android/fileselectionactivityextfilter.html
 
 ## Screenshots : スクリーンショット
 <img src="screenshots/screenshot_01.png" width="240" alt="Screenshot"/> <img src="screenshots/screenshot_02.png" width="240" alt="Screenshot"/> <img src="screenshots/screenshot_03.png" width="240" alt="Screenshot"/>
